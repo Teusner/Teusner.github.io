@@ -1,0 +1,16 @@
+- tag: ICUA2022
+  date: 2022-06-22 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin, B. Zerr
+  title: Acoustic source localisation in underwater environment using set methods
+
+- tag: SUBMEETING2022
+  date: 2022-04-06 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin
+  title: Enclosure methods for safe localisation
+  pdf: https://github.com/Teusner/SUBMEETING2022/releases/download/v1.0/presentation.pdf
+  git: https://github.com/Teusner/SUBMEETING2022
+
+- tag: AID2022
+  date: 2022-03-09 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin
+  title: Acoustic source localisation using interval analysis
