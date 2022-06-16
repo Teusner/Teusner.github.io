@@ -15,7 +15,7 @@ sitemap: false
 {% if talk.date > site.time %}
 <div class="row">
 <div class="col-sm-2 align-self-start">
-<span class="badge badge-primary">{{ talk.tag }}</span>
+<a href="{{ talk.url }}" class="badge badge-primary">{{ talk.tag }}</a>
 </div>
 <div class="col-sm-8">
 <strong> {{ talk.title }} </strong> <br/> <em>{{ talk.authors }}</em>, <time datetime="{{ talk.date | date: "%Y-%m-%d" }}">{{ talk.date | date_to_string }}</time>  <br/>
@@ -47,7 +47,7 @@ sitemap: false
 {% if talk.date < site.time %}
 <div class="row">
 <div class="col-sm-2 align-self-start">
-<span class="badge badge-primary">{{ talk.tag }}</span>
+<a href="{{ talk.url }}" class="badge badge-primary">{{ talk.tag }}</a>
 </div>
 <div class="col-sm-8">
 <strong> {{ talk.title }} </strong> <br/> <em>{{ talk.authors }}</em>, <time datetime="{{ talk.date | date: "%Y-%m-%d" }}">{{ talk.date | date_to_string }}</time>  <br/>
