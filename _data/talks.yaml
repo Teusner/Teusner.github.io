@@ -1,3 +1,9 @@
+- tag: SWIM2022
+  date: 2022-07-19 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin
+  title: Sea route monitoring by weather buoys using interval analysis
+  git: https://github.com/Teusner/SWIM2022
+
 - tag: ICUA2022
   date: 2022-06-22 00:00:00 -0500
   authors: Q. Brateau, L. Jaulin, B. Zerr
