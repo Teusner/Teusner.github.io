@@ -23,8 +23,8 @@ sitemap: false
 {% if talk.abstract %}  <br/>{% endif %}
 
 <div class="btn-group btn-group-sm" role="group" aria-label="Basic example">
-  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-danger text-white"><i class="fas fa-file-pdf"> pdf</a>{% endif %}
-  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-info text-white"><i class="fab fa-github"> git</a>{% endif %}
+  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-danger text-white"><i class="fas fa-file-pdf"></i> pdf</a>{% endif %}
+  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-info text-white"><i class="fab fa-github"></i> git</a>{% endif %}
 </div>
 </div>
 </div>
