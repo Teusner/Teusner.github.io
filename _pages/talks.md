@@ -23,8 +23,9 @@ sitemap: false
 {% if talk.abstract %}  <br/>{% endif %}
 
 <div class="btn-group btn-group-sm" role="group" aria-label="Basic example">
-  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-danger text-white"><i class="fas fa-file-pdf"></i> pdf</a>{% endif %}
-  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-info text-white"><i class="fab fa-github"></i> git</a>{% endif %}
+  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-info text-white"><i class="fas fa-file-pdf"></i> pdf</a>{% endif %}
+  {% if talk.video %}<a type="button" href="{{ talk.video }}" class="btn bg-danger text-white"><i class="fab fa-youtube"></i> youtube</a>{% endif %}
+  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-success text-white"><i class="fab fa-github"></i> git</a>{% endif %}
 </div>
 </div>
 </div>
@@ -55,8 +56,9 @@ sitemap: false
 {% if talk.abstract %}  <br/>{% endif %}
 
 <div class="btn-group btn-group-sm" role="group" aria-label="Basic example">
-  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-danger text-white"><i class="fas fa-file-pdf"></i> pdf</a>{% endif %}
-  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-info text-white"><i class="fab fa-github"></i> git</a>{% endif %}
+  {% if talk.pdf %}<a type="button" href="{{ talk.pdf }}" class="btn bg-info text-white"><i class="fas fa-file-pdf"></i> pdf</a>{% endif %}
+  {% if talk.video %}<a type="button" href="{{ talk.video }}" class="btn bg-danger text-white"><i class="fab fa-youtube"></i> youtube</a>{% endif %}
+  {% if talk.git %}<a type="button" href="{{ talk.git }}" class="btn bg-success text-white"><i class="fab fa-github"></i> git</a>{% endif %}
 </div>
 </div>
 </div>
