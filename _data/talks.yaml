@@ -6,6 +6,12 @@
   git: https://github.com/Teusner/SWIM2022
   video: https://www.youtube.com/playlist?list=PLoVRdUZvaDerRd9CmUi_YAEOQGuwF1bU7
 
+- tag: ROBEX2022
+  url: https://www.ensta-bretagne.fr/jaulin/robexsem.html
+  date: 2022-07-07 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin
+  title: State estimation of a system of sub-systems with undistinguishable measurements using interval analysis 
+
 - tag: ICUA2022
   url: https://icua2022.org/
   date: 2022-06-22 00:00:00 -0500
