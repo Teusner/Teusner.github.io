@@ -1,3 +1,10 @@
+- tag: GT22022
+  url: http://simon-rohou.fr/research/gt2/06-12-2022.php
+  date: 2022-12-06 00:00:00 -0500
+  authors: Q. Brateau, L. Jaulin
+  title: Torpedo-like AUV control in constrained environment
+  git: https://github.com/Teusner/GT22022
+
 - tag: SWIM2022
   url: https://www.swim2022.de/
   date: 2022-07-19 00:00:00 -0500
