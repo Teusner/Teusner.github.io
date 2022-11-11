@@ -204,7 +204,7 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Brateau
+  last_name: [Brateau]
   first_name: [Quentin, Q.]
 
   style: apa
