@@ -3,6 +3,8 @@
   date: 2022-12-08 00:00:00 -0500
   authors: Q. Brateau, L. Jaulin
   title: Orthogonal control of Torpedo-like AUV in constrained environment
+  git: https://github.com/Teusner/RobexDay2022
+  pdf: https://github.com/Teusner/RobexDay2022/releases/download/v1.0/presentation.pdf
 
 - tag: GT22022
   url: http://simon-rohou.fr/research/gt2/06-12-2022.php
