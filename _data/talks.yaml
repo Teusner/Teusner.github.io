@@ -1,3 +1,10 @@
+- tag: IAO2023
+  # url: https://www.ensta-bretagne.fr/jaulin/robexday2.html
+  date: 2023-05-02 00:00:00 -0500
+  authors: Q. Brateau, F. Le Bars, L. Jaulin
+  title: Control of Torpedo-like AUV
+  git: https://github.com/Teusner/IAO2023
+
 - tag: ROBEXDAY2022
   url: https://www.ensta-bretagne.fr/jaulin/robexday2.html
   date: 2022-12-08 00:00:00 -0500
@@ -31,7 +38,7 @@
   video: https://www.youtube.com/watch?v=fxuJ5PDC9B0
 
 - tag: ICUA2022
-  url: https://icua2022.org/
+  # url: https://icua2022.org/
   date: 2022-06-22 00:00:00 -0500
   authors: Q. Brateau, L. Jaulin, B. Zerr
   title: Acoustic source localisation in underwater environment using set methods
