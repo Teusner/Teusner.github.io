@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-08 13:30:00-0400
+date: 2023-05-02 08:00:00-0400
 inline: true
 ---
 
-ROBEX Day 2 Brest Underwater Robotics Talk
+Experiments IAO2023 LabSTICC IA & Ocean's days at Moulin Mer
