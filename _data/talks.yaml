@@ -1,9 +1,9 @@
 - tag: IAO2023
-  # url: https://www.ensta-bretagne.fr/jaulin/robexday2.html
   date: 2023-05-02 00:00:00 -0500
   authors: Q. Brateau, F. Le Bars, L. Jaulin
   title: Control of Torpedo-like AUV
   git: https://github.com/Teusner/IAO2023
+  pdf: https://github.com/Teusner/IAO2023/releases/download/v1.0/presentation.pdf
 
 - tag: ROBEXDAY2022
   url: https://www.ensta-bretagne.fr/jaulin/robexday2.html
