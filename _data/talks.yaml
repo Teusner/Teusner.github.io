@@ -1,3 +1,11 @@
+- tag: IM2023
+  url: https://www.interval-methods.de/seminars
+  date: 2023-11-03 00:00:00 -0500
+  authors: Q. Brateau, F. Le Bars, L. Jaulin
+  title: Union of adjacent contractors
+  git: https://github.com/Teusner/IM2023
+  pdf: https://github.com/Teusner/IM2023/releases/download/v1.0/presentation.pdf
+
 - tag: SWIM2023
   url: https://swim2023.sciencesconf.org/
   date: 2023-06-27 00:00:00 -0500
