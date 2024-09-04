@@ -16,7 +16,7 @@ Working with videos in DaVinci Resolve can be a delight, but sometimes, importin
 
 Before diving into the script, you'll need to have the following installed:
 
-- [ffmpeg](https://fmmpeg.org): An open-source tool for handling video, audio, and other multimedia files.
+- [ffmpeg](https://ffmpeg.org): An open-source tool for handling video, audio, and other multimedia files.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve): A professional video editing software that supports a wide range of formats.
 
 # The command
