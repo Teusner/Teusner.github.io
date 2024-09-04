@@ -103,22 +103,13 @@
       "name": "Robotics",
       "level": "Master",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Control",
-        "State estimation",
-        "Set methods",
-        "Embedded systems"
-      ]
+      "keywords": ["Control", "State estimation", "Set methods", "Embedded systems"]
     },
     {
       "name": "Code",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C++",
-        "Python",
-        "Latex"
-      ]
+      "keywords": ["C++", "Python", "Latex"]
     }
   ],
   "languages": [
@@ -142,18 +133,12 @@
     {
       "name": "Diving",
       "icon": "fa-solid fa-water",
-      "keywords": [
-        "Dive guide",
-        "Enriched Air Nitrox",
-        "Diving technician (CAH-1B)"
-      ]
+      "keywords": ["Dive guide", "Enriched Air Nitrox", "Diving technician (CAH-1B)"]
     },
     {
       "name": "Guitar",
       "icon": "fa-solid fa-guitar",
-      "keywords": [
-        "Classical guitar player"
-      ]
+      "keywords": ["Classical guitar player"]
     }
   ],
   "references": [
