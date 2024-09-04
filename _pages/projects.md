@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore my key projects, where research meets innovation. This curated selection highlights my most impactful work, showcasing the intersection of ideas, technology, and creative problem-solving. Each project reflects my commitment to advancing knowledge and pushing the boundaries of robotics.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [PhD]
 horizontal: false
 ---
 
