@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thesis
-description: Thesis about stable cycles in robotics
+title: Quentin Brateau PhD Thesis
+description: ENSTA Brest PhD thesis on event-driven cycle navigation for mobile robots.
 img: assets/img/blueboat.png
 importance: 2
 category: PhD
