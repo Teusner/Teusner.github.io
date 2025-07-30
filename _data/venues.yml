@@ -1,9 +1,18 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IFAC":
+  url: https://www.sciencedirect.com/journal/mechatronics
+  color: "#ff7f0e"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACTA":
+  url: https://cyber.bibl.u-szeged.hu/
 
-"Vision":
-  color: "#009f36"
+"OCEANS":
+  url: https://oceansconference.org/
+  color: "#1f77b4"
+
+"JOE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=48
+  color: "#ff7f0e"
+
+"POMA":
+  url: https://pubs.aip.org/asa/poma
+  color: "#1f77b4"
