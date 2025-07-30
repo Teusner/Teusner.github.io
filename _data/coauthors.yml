@@ -3,7 +3,7 @@
     url: https://ensta-bretagne.fr/jaulin
 
 "bars":
-  - firstname: ["Fabrice Le", "F. Le"]
+  - firstname: ["Fabrice Le", "Fabrice", "F. Le"]
     url: https://www.ensta-bretagne.fr/lebars
 
 "degorre":
