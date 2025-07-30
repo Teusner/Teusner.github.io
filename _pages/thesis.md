@@ -28,9 +28,13 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
     </a>
 </div>
 
+---
+
 ## Organization
 
 The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7). A dinner at a restaurant is organised the evening before by Luc Jaulin for the members of the jury.
+
+---
 
 ## Jury
 
