@@ -2,9 +2,9 @@
 layout: page
 permalink: /thesis/
 title: thesis
+description: Event-driven Cycle Navigation for Mobile Robots
 nav: true
 nav_order: 1
-social: true # includes social icons at the bottom of the page
 ---
 
 # Introduction 
@@ -17,7 +17,7 @@ This thesis explores the fascinating world of stable cycles in robotics, with a 
 Key contributions include new methods for cycle stabilization, energy-efficient locomotion patterns, and robust control strategies that can be applied to various robotic platforms. The research addresses both fundamental theoretical aspects and practical implementation challenges, providing a comprehensive framework for understanding and utilizing cyclic behaviors in robotic applications.
 
 <a href="../../assets/pdf/thesis.pdf" class="btn btn-primary mb-3" target="_blank">
-    <i class="fa-solid fa-file-pdf"></i> Download thesis PDF
+    <i class="fa-solid fa-file-pdf"></i> Download the manuscript
 </a>
 
 # Organization
