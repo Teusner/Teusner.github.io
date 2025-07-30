@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-thesis",
           title: "thesis",
-          description: "Event-driven Cycle Navigation for Mobile Robots",
+          description: "This page is dedicated to my PhD thesis about stable cycles for mobile robots navigation",
           section: "Navigation",
           handler: () => {
             window.location.href = "/thesis/";
