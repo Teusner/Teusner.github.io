@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /thesis/
-# title: thesis
-# description: Page about my PhD Thesis prepared at ENSTA
-# subtitle: Event-driven Cycle Navigation for Mobile Robots
+title: thesis
 nav: true
 nav_order: 1
 social: true # includes social icons at the bottom of the page
