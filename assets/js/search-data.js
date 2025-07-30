@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-thesis",
+          title: "thesis",
+          description: "Page about my PhD Thesis prepared at ENSTA",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/thesis/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Find here my research papers, conference contributions, and journal articles.",
           section: "Navigation",
