@@ -16,3 +16,26 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
 <a href="../../assets/pdf/thesis.pdf" class="btn btn-primary mb-3" target="_blank">
     <i class="fa-solid fa-file-pdf"></i> Download thesis PDF
 </a>
+
+## Organization
+
+The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7).
+
+## Jury
+
+### Reviewers
+
+- Professor Sylvain Durand, University of Strasbourg, France
+- Professor Andreas Rauh, University of Oldenburg, Germany
+
+### Examinators
+
+- Professor Frédéric Boyer, LS2N, Centrale Nantes, France
+- Professor Lionel Lapierre, LIRMM, University of Montpellier, France
+- Professor Philippe Xu, ENSTA, France
+- Associate Professor, LIRMM, University of Montpellier, France
+
+### Supervisors
+
+- Professor Luc Jaulin, Lab-STICC, ENSTA, France,
+- Associate Professor Fabrice Le Bars, Lab-STICC, ENSTA, France
