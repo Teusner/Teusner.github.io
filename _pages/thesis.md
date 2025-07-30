@@ -27,17 +27,17 @@ The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at
 
 ## Reviewers
 
-- Professor Sylvain Durand, University of Strasbourg, France
-- Professor Andreas Rauh, University of Oldenburg, Germany
+- Professor [Sylvain Durand](https://sylvain.durandchamontin.fr/), [ICube](https://icube.unistra.fr/), [INSA Strasbourg](https://www.insa-strasbourg.fr/fr/), France
+- Professor [Andreas Rauh](https://www.interval-methods.de/), [DCIS](https://uol.de/en/computingscience/dcis), [Carl von OssietzkyUniversity of Oldenburg](https://uol.de/en), Germany
 
 ## Examinators
 
-- Professor Frédéric Boyer, LS2N, Centrale Nantes, France
-- Professor Lionel Lapierre, LIRMM, University of Montpellier, France
-- Professor Philippe Xu, ENSTA, France
-- Associate Professor, LIRMM, University of Montpellier, France
+- Professor [Frédéric Boyer](https://www.imt-atlantique.fr/fr/personne/frederic-boyer), [LS2N](https://www.ls2n.fr/), [Centrale Nantes](https://www.ec-nantes.fr/english-version), France
+- Professor Lionel Lapierre, [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
+- Professor [Philippe Xu](https://perso.ensta-paris.fr/~philippe.xu/), [U2IS](http://u2is.ensta-paris.fr/), [ENSTA](https://www.ensta-paris.fr/), France
+- Associate Professor [Juliette Drupt](https://scholar.google.com/citations?user=NCVrNhIAAAAJ&hl=fr), [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
 
 ## Supervisors
 
-- Professor Luc Jaulin, Lab-STICC, ENSTA, France,
-- Associate Professor Fabrice Le Bars, Lab-STICC, ENSTA, France
+- Professor [Luc Jaulin](https://www.ensta-bretagne.fr/jaulin/), [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France,
+- Associate Professor [Fabrice Le Bars](https://www.ensta-bretagne.fr/lebars/), [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France
