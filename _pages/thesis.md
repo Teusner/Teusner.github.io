@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /thesis/
-title: thesis
-description: Page about my PhD Thesis prepared at ENSTA
-subtitle: Event-driven Cycle Navigation for Mobile Robots
+# title: thesis
+# description: Page about my PhD Thesis prepared at ENSTA
+# subtitle: Event-driven Cycle Navigation for Mobile Robots
 nav: true
 nav_order: 1
 social: true # includes social icons at the bottom of the page
@@ -21,7 +21,7 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
 
 # Organization
 
-The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7).
+The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7). A dinner at a restaurant is organised the evening before by Luc Jaulin for the members of the jury.
 
 # Jury
 
