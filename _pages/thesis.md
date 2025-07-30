@@ -9,7 +9,7 @@ nav_order: 1
 
 # Event-driven Cycle Navigation for Mobile Robots
 
-## Introduction 
+## Introduction
 
 This thesis explores the fascinating world of stable cycles in robotics, with a particular focus on marine vehicles. Through theoretical developments and experimental validations, we investigate how cycle navigation can be leveraged to enhance the efficiency and reliability of robotic systems. The work combines control theory, set methods, and practical engineering to develop novel approaches for achieving stable, repeatable motions in challenging underwater environments.
 

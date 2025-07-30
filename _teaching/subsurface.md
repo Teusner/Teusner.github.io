@@ -17,6 +17,7 @@ Subsurface is a course about the fabrication of a Low Cost Subsurface AUV. The c
 ## Objectives
 
 The main objectives of this course are:
+
 - **AUV Design**: To understand the principles of AUV design and operation.
 - **3D modeling**: To learn how to create 3D models of AUV components using CAD software.
 - **Fabrication**: To gain practical experience in fabricating AUV with simple numerical tools (3D FDM / SLA printers, CNC mill, ...),
@@ -27,6 +28,7 @@ The main objectives of this course are:
 ---
 
 ## Prerequisites
+
 - **Robotics**: Familiarities with robotics concepts, including sensors actuators, and control laws.
 - **Programming**: Basic understanding of programming concepts (C/C++ and Python)
 - **Electronics**: Familiarity with electronics and basic circuit components.
@@ -34,13 +36,15 @@ The main objectives of this course are:
 ---
 
 ## Course Structure
+
 The course is structured into several modules, each focusing on different aspects of AUV design and fabrication:
+
 - **Module 1: Introduction to AUVs**
   - Overview of AUV technology and applications.
   - Basic principles of underwater navigation and communication.
   - Introduction to the components used in AUVs.
 - **Module 2: AUV Design and Fabrication**
-  -  Design considerations for low-cost AUVs.
+  - Design considerations for low-cost AUVs.
   - Materials and tools required for fabrication.
   - Step-by-step guide to building an AUV prototype.
 - **Module 3: Programming and Control**
@@ -67,6 +71,7 @@ The course is structured into several modules, each focusing on different aspect
 ---
 
 ## Resources
+
 - **Course Materials**: Lecture notes, slides, and additional reading materials will be provided.
 - **Online Resources**: Links to relevant online tutorials, videos, and forums for further learning
 - **Community Support**: A dedicated forum for students to ask questions, share ideas, and collaborate on projects.
@@ -78,6 +83,7 @@ The course is structured into several modules, each focusing on different aspect
 ---
 
 ## Assessment
+
 - **Project Work**: Students will be required to complete a hands-on project where they design, fabricate, and program their own AUV prototype.
 - **Quizzes and Assignments**: Regular quizzes and assignments to reinforce learning and assess understanding of key concepts.
 - **Trials and Evaluation**: Students will conduct trials of their AUV prototypes and evaluate their performance based on predefined criteria.
