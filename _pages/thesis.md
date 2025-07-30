@@ -1,13 +1,15 @@
 ---
-layout: thesis
+layout: page
+permalink: /thesis/
 title: thesis
-permalink: /thesis
-subtitle:
+description: Page about my PhD Thesis prepared at ENSTA
+subtitle: Event-driven Cycle Navigation for Mobile Robots
+nav: true
 nav_order: 1
 social: true # includes social icons at the bottom of the page
 ---
 
-# Event-driven Cycle Navigation for Mobile Robots 
+# Introduction 
 
 This thesis explores the fascinating world of stable cycles in robotics, with a particular focus on marine vehicles. Through theoretical developments and experimental validations, we investigate how cycle navigation can be leveraged to enhance the efficiency and reliability of robotic systems. The work combines control theory, set methods, and practical engineering to develop novel approaches for achieving stable, repeatable motions in challenging underwater environments.
 
@@ -17,25 +19,25 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
     <i class="fa-solid fa-file-pdf"></i> Download thesis PDF
 </a>
 
-## Organization
+# Organization
 
 The thesis defence will take place on Wednesday, 15 October 2025 at 9:30 a.m. at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7).
 
-## Jury
+# Jury
 
-### Reviewers
+## Reviewers
 
 - Professor Sylvain Durand, University of Strasbourg, France
 - Professor Andreas Rauh, University of Oldenburg, Germany
 
-### Examinators
+## Examinators
 
 - Professor Frédéric Boyer, LS2N, Centrale Nantes, France
 - Professor Lionel Lapierre, LIRMM, University of Montpellier, France
 - Professor Philippe Xu, ENSTA, France
 - Associate Professor, LIRMM, University of Montpellier, France
 
-### Supervisors
+## Supervisors
 
 - Professor Luc Jaulin, Lab-STICC, ENSTA, France,
 - Associate Professor Fabrice Le Bars, Lab-STICC, ENSTA, France
