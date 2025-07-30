@@ -148,6 +148,13 @@ ninja.data = [{
           window.open("https://github.com/Teusner", "_blank");
         },
       },{
+        id: 'social-hal_id',
+        title: 'Hal_id',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
