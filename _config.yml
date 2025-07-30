@@ -7,6 +7,8 @@ first_name: Quentin
 middle_name:
 last_name: Brateau
 email: quentin.brateau@ensta-bretagne.org
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personnal webpage presenting my research and projects in robotics.
 footer_text: >
