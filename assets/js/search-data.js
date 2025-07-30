@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-thesis",
-          title: "thesis",
-          description: "Page about my PhD Thesis prepared at ENSTA",
+  },{id: "nav-",
+          title: "",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/thesis/";
