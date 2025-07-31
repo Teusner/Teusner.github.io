@@ -43,7 +43,7 @@ The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.*
 ### Reviewers
 
 - Professor [Sylvain Durand](https://sylvain.durandchamontin.fr/), [ICube](https://icube.unistra.fr/), [INSA Strasbourg](https://www.insa-strasbourg.fr/fr/), France
-- Professor [Andreas Rauh](https://www.interval-methods.de/), [DCIS](https://uol.de/en/computingscience/dcis), [Carl von OssietzkyUniversity of Oldenburg](https://uol.de/en), Germany
+- Professor [Andreas Rauh](https://www.interval-methods.de/), [DCIS](https://uol.de/en/computingscience/dcis), [Carl von Ossietzky University of Oldenburg](https://uol.de/en), Germany
 
 ### Examinators
 
