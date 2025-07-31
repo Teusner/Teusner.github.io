@@ -2,63 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: This page lists the courses I am currently teaching at ENSTA.
 nav: true
 nav_order: 5
 display_categories: [PhD]
 horizontal: false
 ---
 
-<div class="projects">
-{% if site.enable_teaching_categories and page.display_categories %}
-  <!-- Display categorized teaching -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_teaching = site.teaching | where: "category", category %}
-  {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
-  <!-- Generate cards for each teaching material -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teaching %}
-      {% include teaching_horizontal.liquid %}
-    {% endfor %}
-    </div>
+<div class="row row-cols-1 row-cols-md-2">
+
+  <div class="col">
+    <a href="/teaching/subsurface">
+      <div class="card h-100 hoverable">
+        <img class="card-img-top" src="/assets/img/blueboat.png" alt="subsurface thumbnail">
+        <div class="card-body">
+          <h2 class="card-title">Subsurface</h2>
+          <p class="card-text">Design and fabrication of a Subsurface AUV</p>
+        </div>
+      </div>
+    </a>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for teaching in sorted_teaching %}
-      {% include teaching.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
-
-<!-- Display teaching materials without categories -->
-
-{% assign sorted_teaching = site.teaching | sort: "importance" %}
-
-  <!-- Generate cards for each teaching material -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teaching %}
-      {% include teaching_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for teaching in sorted_teaching %}
-      {% include teaching.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>

@@ -1,6 +1,5 @@
 ---
 layout: page
-date: 2024-09-02 13:00:00
 title: Subsurface
 description: Courses about the fabrication of a Low Cost Subsurface AUV
 img: assets/img/blueboat.png
@@ -39,31 +38,31 @@ The main objectives of this course are:
 
 The course is structured into several modules, each focusing on different aspects of AUV design and fabrication:
 
-- **Module 1: Introduction to AUVs**
+- **Module 0: Introduction to AUVs** - [ [lesson](/teaching/subsurface/module_0) / slides ]
   - Overview of AUV technology and applications.
   - Basic principles of underwater navigation and communication.
   - Introduction to the components used in AUVs.
-- **Module 2: AUV Design and Fabrication**
+- **Module 1: AUV Design and Fabrication**
   - Design considerations for low-cost AUVs.
   - Materials and tools required for fabrication.
   - Step-by-step guide to building an AUV prototype.
-- **Module 3: Programming and Control**
+- **Module 2: Programming and Control**
   - Introduction to programming languages used in AUV control.
   - Developing control algorithms for AUV navigation.
   - Implementing sensors and actuators for AUV operation.
-- **Module 4: Swarm Navigation**
+- **Module 3: Swarm Navigation**
   - Principles of swarm robotics and multi-agent systems.
   - Techniques for coordinating multiple AUVs.
   - Implementing swarm navigation algorithms.
-- **Module 5: Acoustic Communication**
+- **Module 4: Acoustic Communication**
   - Overview of acoustic communication in underwater environments.
   - Designing low-cost acoustic communication systems.
   - Implementing data transmission protocols for AUVs.
-- **Module 6: Testing and Evaluation**
+- **Module 5: Testing and Evaluation**
   - Testing the AUV prototype in controlled environments.
   - Evaluating the performance of the AUV in various scenarios.
   - Troubleshooting common issues in AUV operation.
-- **Module 7: Applications and Future Directions**
+- **Module 6: Applications and Future Directions**
   - Exploring real-world applications of AUVs.
   - Discussing future trends in AUV technology.
   - Opportunities for further research and development in low-cost AUVs.
