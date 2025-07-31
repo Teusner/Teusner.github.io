@@ -50,7 +50,7 @@ The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.*
 - Professor [Frédéric Boyer](https://www.imt-atlantique.fr/fr/personne/frederic-boyer), HDR, [LS2N](https://www.ls2n.fr/), [IMT Atlantique Nantes](https://www.imt-atlantique.fr/fr), France
 - Professor [Lionel Lapierre](https://www.ensta-bretagne.fr/lapierre/), HDR, [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
 - Professor [Philippe Xu](https://perso.ensta-paris.fr/~philippe.xu/), HDR, [U2IS](http://u2is.ensta-paris.fr/), [ENSTA](https://www.ensta-paris.fr/), France
-- Associate Professor [Juliette Drupt](https://scholar.google.com/citations?user=NCVrNhIAAAAJ&hl=fr), [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
+- Associate Professor [Juliette Drupt](https://juliettedrupt.github.io/), [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
 
 ### Supervisors
 
