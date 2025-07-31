@@ -56,3 +56,9 @@ The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.*
 
 - Professor [Luc Jaulin](https://www.ensta-bretagne.fr/jaulin/), HDR, [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France,
 - Associate Professor [Fabrice Le Bars](https://www.ensta-bretagne.fr/lebars/), [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France
+
+---
+
+## Grant
+
+This work was supported by the [French Ministry of Defence](https://www.defense.gouv.fr/aid) (DGA / AID) under the **PhD grant 2022850**.
