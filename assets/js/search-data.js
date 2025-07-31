@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "This page lists the courses I am currently teaching at ENSTA.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -85,6 +85,11 @@ ninja.data = [{
           description: "ICRA2025 contribution about stable cycles in robotics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/icra2025/";
+            },},{id: "teaching-subsurface-introduction-to-auvs",
+          title: 'Subsurface - Introduction to AUVs',
+          description: "Courses about the fabrication of a Low Cost Subsurface AUV",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/subsurface/module_0/";
             },},{id: "teaching-subsurface",
           title: 'Subsurface',
           description: "Courses about the fabrication of a Low Cost Subsurface AUV",
