@@ -42,20 +42,20 @@ The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.*
 
 ### Reviewers
 
-- Professor [Andreas Rauh](https://www.interval-methods.de/), HDR, [DCIS](https://uol.de/en/computingscience/dcis), [Carl von Ossietzky University of Oldenburg](https://uol.de/en), Germany
-- Associate Professor [Sylvain Durand](https://sylvain.durandchamontin.fr/), HDR, [ICube](https://icube.unistra.fr/), [INSA Strasbourg](https://www.insa-strasbourg.fr/fr/), France
+- Professor [Andreas Rauh](https://www.interval-methods.de/), HDR, [DCIS](https://uol.de/en/computingscience/dcis), [Carl von Ossietzky University of Oldenburg](https://uol.de/en), Germany,
+- Associate Professor [Sylvain Durand](https://sylvain.durandchamontin.fr/), HDR, [ICube](https://icube.unistra.fr/), [INSA Strasbourg](https://www.insa-strasbourg.fr/fr/), France.
 
 ### Examinators
 
-- Professor [Frédéric Boyer](https://www.imt-atlantique.fr/fr/personne/frederic-boyer), HDR, [LS2N](https://www.ls2n.fr/), [IMT Atlantique Nantes](https://www.imt-atlantique.fr/fr), France
-- Professor [Lionel Lapierre](https://www.ensta-bretagne.fr/lapierre/), HDR, [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
-- Professor [Philippe Xu](https://perso.ensta-paris.fr/~philippe.xu/), HDR, [U2IS](http://u2is.ensta-paris.fr/), [ENSTA](https://www.ensta-paris.fr/), France
-- Associate Professor [Juliette Drupt](https://juliettedrupt.github.io/), [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France
+- Professor [Frédéric Boyer](https://www.imt-atlantique.fr/fr/personne/frederic-boyer), HDR, [LS2N](https://www.ls2n.fr/), [IMT Atlantique Nantes](https://www.imt-atlantique.fr/fr), France,
+- Professor [Lionel Lapierre](https://www.ensta-bretagne.fr/lapierre/), HDR, [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France,
+- Professor [Philippe Xu](https://perso.ensta-paris.fr/~philippe.xu/), HDR, [U2IS](http://u2is.ensta-paris.fr/), [ENSTA](https://www.ensta-paris.fr/), France,
+- Associate Professor [Juliette Drupt](https://juliettedrupt.github.io/), [LIRMM](https://www.lirmm.fr/), [University of Montpellier](https://www.umontpellier.fr/), France.
 
 ### Supervisors
 
 - Professor [Luc Jaulin](https://www.ensta-bretagne.fr/jaulin/), HDR, [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France,
-- Associate Professor [Fabrice Le Bars](https://www.ensta-bretagne.fr/lebars/), [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France
+- Associate Professor [Fabrice Le Bars](https://www.ensta-bretagne.fr/lebars/), [Lab-STICC](https://labsticc.fr/fr), [ENSTA](https://ensta-bretagne.fr), France.
 
 ---
 
