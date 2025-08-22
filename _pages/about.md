@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Robotics engineer ENSTA | PhD candidate in underwater robotics
 
 profile:
   align: right
