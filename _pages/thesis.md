@@ -36,6 +36,16 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
 
 The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.** at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7) in room **F144**. A dinner at a restaurant is organised the evening before by Luc Jaulin for the members of the jury.
 
+An access request is available for external visitors. To get your access to the ENSTA campus, please fill in the following form before **Monday, 6 October 2025**:
+
+<div class="d-flex justify-content-center">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-Vrvlctut9U-1KGLVVbKEHiTFPS9RDofs4gTtD5xKRLQa8w/viewform?usp=dialog" class="btn btn-primary mb-3 mx-2" target="_blank">
+        <i class="fa-brands fa-wpforms"></i> Access request form
+    </a>
+</div>
+
+A visio-conference will be available for those who cannot attend in person. The link will be available on this page a few days before the defence.
+
 ---
 
 ## Jury
