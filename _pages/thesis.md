@@ -44,7 +44,13 @@ An access request is available for external visitors. To get your access to the 
     </a>
 </div>
 
-A visio-conference will be available for those who cannot attend in person. The link will be available on this page a few days before the defence.
+Here is the direct link to the Teams meeting if you want to attend remotely:
+
+<div class="d-flex justify-content-center">
+    <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUyMjlhNzItN2YzMy00NzQ0LTlhZDMtNDFhZmJlNjIyZGMw%40thread.v2/0?context=%7b%22Tid%22%3a%228f6c3f3f-c20f-4ade-b8c1-3e0fba16ec71%22%2c%22Oid%22%3a%225b89606c-2c91-48cf-b736-0d56a2680aa4%22%7d" class="btn btn-primary mb-3 mx-2" target="_blank">
+        <i class="fa-solid fa-people-group"></i> Teams meeting link
+    </a>
+</div>
 
 ---
 
