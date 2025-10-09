@@ -14,7 +14,7 @@ horizontal: false
   <div class="col">
     <a href="/teaching/subsurface">
       <div class="card h-100 hoverable">
-        <img class="card-img-top" src="/assets/img/blueboat.png" alt="subsurface thumbnail">
+        <img class="card-img-top" src="/assets/img/subsurface.png" alt="subsurface thumbnail">
         <div class="card-body">
           <h2 class="card-title">Subsurface</h2>
           <p class="card-text">Design and fabrication of a Subsurface AUV</p>
