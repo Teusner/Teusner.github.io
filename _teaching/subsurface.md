@@ -2,7 +2,7 @@
 layout: page
 title: Subsurface
 description: Courses about the fabrication of a Low Cost Subsurface AUV
-img: assets/img/blueboat.png
+img: assets/img/subsurface.png
 importance: 1
 category: current
 ---
