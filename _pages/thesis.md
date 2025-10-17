@@ -5,6 +5,9 @@ title: thesis
 description: This page is dedicated to my PhD thesis about stable cycles for mobile robots navigation
 nav: true
 nav_order: 1
+images:
+  compare: true
+  slider: true
 ---
 
 # Event-driven Cycle Navigation for Mobile Robots
@@ -36,14 +39,6 @@ Key contributions include new methods for cycle stabilization, energy-efficient 
 
 The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.** at [ENSTA Bretagne](https://maps.app.goo.gl/ZE44hDHSAHqKqASJ7) in room **F144**. A dinner at a restaurant is organised the evening before by Luc Jaulin for the members of the jury.
 
-An access request is available for external visitors. To get your access to the ENSTA campus, please fill in the following form before **Monday, 6 October 2025**:
-
-<div class="d-flex justify-content-center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSf-Vrvlctut9U-1KGLVVbKEHiTFPS9RDofs4gTtD5xKRLQa8w/viewform?usp=dialog" class="btn btn-primary mb-3 mx-2" target="_blank">
-        <i class="fa-brands fa-wpforms"></i> Access request form
-    </a>
-</div>
-
 Here is the direct link to the Teams meeting if you want to attend remotely:
 
 <div class="d-flex justify-content-center">
@@ -51,6 +46,37 @@ Here is the direct link to the Teams meeting if you want to attend remotely:
         <i class="fa-solid fa-people-group"></i> Teams meeting link
     </a>
 </div>
+
+---
+
+## Thesis defense
+
+### Photos taken during the defense
+
+Here are some photos taken during the thesis defense. Many thanks to Damien Esnault for the pictures!
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_094533.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_095914.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_100628.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_101020.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_101828.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_102545.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_103210.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_120402.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_120456.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+    <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_122303.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
+### Recording of the defense
+
+Here is the recording of the thesis defense:
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/V0Dya7bdimU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+And the video of the experiments conducted during the thesis and presented during the defense:
+
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/MDJ6iHYhxyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
