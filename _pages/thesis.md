@@ -22,14 +22,20 @@ This thesis explores the fascinating world of stable cycles in robotics, with a 
 
 Key contributions include new methods for cycle stabilization, energy-efficient locomotion patterns, and robust control strategies that can be applied to various robotic platforms. The research addresses both fundamental theoretical aspects and practical implementation challenges, providing a comprehensive framework for understanding and utilizing cyclic behaviors in robotic applications.
 
-<!-- Put buttons side by side and at the center -->
+## Thesis manuscript and Reviewer's reports
 
 <div class="d-flex justify-content-center">
     <a href="../../assets/pdf/thesis.pdf" class="btn btn-primary mb-3 mx-2" target="_blank">
-        <i class="fa-solid fa-file-pdf"></i> Download the manuscript
+        <i class="ai ai-hal"></i> Download the manuscript
     </a>
-    <a href="https://youtu.be/MDJ6iHYhxyM" class="btn btn-primary mb-3 mx-2" target="_blank">
-        <i class="fa-brands fa-youtube"></i> Watch experiments on YouTube
+    <a href="../../assets/pdf/PhD_Defense_Report.pdf" class="btn btn-primary mb-3 mx-2" target="_blank">
+        <i class="fa-solid fa-graduation-cap"></i> Defense report
+    </a>
+    <a href="../../assets/pdf/PhD_Report_S_Durand.pdf" class="btn btn-primary mb-3 mx-2" target="_blank">
+        <i class="fa-solid fa-feather"></i> Review by Sylvain Durand
+    </a>
+    <a href="../../assets/pdf/PhD_Report_A_Rauh.pdf" class="btn btn-primary mb-3 mx-2" target="_blank">
+        <i class="fa-solid fa-feather"></i> Review by Andreas Rauh
     </a>
 </div>
 
