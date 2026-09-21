@@ -1,12 +1,12 @@
 cv:
   name: Quentin Brateau
-  label: PhD in Robotics | Robotics Engineer
+  label: Associate Professor in Robotics | PhD in Robotics
   email: quentin.brateau@ensta-bretagne.org
   phone: "+33 (0)6 04 18 24 28"
   location: Brest, France
   website: https://teusner.github.io/
   image: "/assets/img/prof_pic.jpg"
-  summary: French robotics engineer graduated from ENSTA Bretagne and PhD in underwater robotics from LAB-STICC / ENSTA Bretagne, specializing in state estimation, interval analysis, control, and stable cycle navigation for autonomous marine vehicles.
+  summary: Associate Professor in robotics at École Navale and PhD in mobile and underwater robotics from LAB-STICC / ENSTA Bretagne, specializing in cyclic navigation, swarm robotics, set methods, and robust control for autonomous marine vehicles.
 
   social_networks:
     - network: GitHub
