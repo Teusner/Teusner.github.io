@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://teusner.github.io/sitemap.xml
