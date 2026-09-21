@@ -78,7 +78,6 @@ al_folio:
       enabled: true
   compat:
     bootstrap:
-      enabled: true # Keep bootstrap compatibility enabled for custom card and thesis components
       enabled: false
       support_window: v1.0-v1.2
       deprecates_in: v1.3
