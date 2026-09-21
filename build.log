@@ -4,7 +4,10 @@ Configuration file: /home/runner/work/Teusner.github.io/Teusner.github.io/_confi
  Incremental build: disabled. Enable with --incremental
       Generating... 
 DEPRECATION WARNING: to_time will always preserve the timezone offset of the receiver in Rails 8.0. To opt in to the new behavior, set `ActiveSupport.to_time_preserves_timezone = true`. (called from load at /home/runner/work/Teusner.github.io/Teusner.github.io/vendor/bundle/ruby/3.3.0/bin/jekyll:25)
-al_folio_bootstrap_compat: enabled (supported through v1.2, deprecated in v1.3, removed in v2.0)
+[33m     al_folio_core: legacy bootstrap-marked content detected while compatibility is disabled[0m
+[33m     al_folio_core: set `al_folio.compat.bootstrap.enabled: true` or run `bundle exec al-folio upgrade audit`[0m
+[33m     al_folio_core:  _includes/teaching.liquid:20[0m
+[33m     al_folio_core:  _includes/teaching.liquid:24[0m
 Fetching external posts from medium.com:
 ...fetching https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2
 Fetching external posts from Google Blog:
@@ -95,6 +98,6 @@ Fetching external posts from Google Blog:
        Imagemagick: Generated 0 file(s)
          AutoPages: Disabled/Not configured in site.config.
         Pagination: Complete, processed 1 pagination page(s)
-[NbConvertApp] Converting notebook /tmp/jekyll-jupyter-notebook20260921-3952-5lvjjb.ipynb to html
+[NbConvertApp] Converting notebook /tmp/jekyll-jupyter-notebook20260921-3945-fg6pey.ipynb to html
 /opt/hostedtoolcache/Python/3.13.15/x64/lib/python3.13/site-packages/nbconvert/filters/highlight.py:71: UserWarning: IPython3 lexer unavailable, falling back on Python 3
   return _pygments_highlight(
