@@ -1,0 +1,100 @@
+Configuration file: /home/runner/work/Teusner.github.io/Teusner.github.io/_config.yml
+            Source: /home/runner/work/Teusner.github.io/Teusner.github.io
+       Destination: /home/runner/work/Teusner.github.io/Teusner.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+DEPRECATION WARNING: to_time will always preserve the timezone offset of the receiver in Rails 8.0. To opt in to the new behavior, set `ActiveSupport.to_time_preserves_timezone = true`. (called from load at /home/runner/work/Teusner.github.io/Teusner.github.io/vendor/bundle/ruby/3.3.0/bin/jekyll:25)
+al_folio_bootstrap_compat: enabled (supported through v1.2, deprecated in v1.3, removed in v2.0)
+Fetching external posts from medium.com:
+...fetching https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2
+Fetching external posts from Google Blog:
+...fetching https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+       Jekyll Feed: Generating feed for posts
+       Imagemagick: Searching files in /home/runner/work/Teusner.github.io/Teusner.github.io/assets/img/
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/blueboat-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/blueboat-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/blueboat-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/book_covers/the_godfather-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/book_covers/the_godfather-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/book_covers/the_godfather-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/davinci_resolve-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/davinci_resolve-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/davinci_resolve-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_dark-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_dark-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_dark-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_blue-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_blue-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_blue-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_red-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_red-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/logo/qb_juicy_red-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/prof_pic-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/prof_pic-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/prof_pic-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stability-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stability-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stability-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stable_cycle-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stable_cycle-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_stable_cycle-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_switch-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_switch-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/guerledan_switch-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/icra2025-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/icra2025-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/icra2025-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/poma2022-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/poma2022-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/poma2022-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/sepvisible_segment-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/sepvisible_segment-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/publication_preview/sepvisible_segment-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/qb-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/qb-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/qb-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/subsurface-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/subsurface-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/subsurface-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/template_error-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/template_error-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/template_error-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_094533-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_094533-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_094533-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_095914-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_095914-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_095914-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_100628-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_100628-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_100628-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101020-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101020-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101020-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101828-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101828-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_101828-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_102545-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_102545-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_102545-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_103210-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_103210-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_103210-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120402-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120402-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120402-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120456-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120456-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_120456-1400.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_122303-480.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_122303-800.webp
+       Imagemagick: Adding static file /home/runner/work/Teusner.github.io/Teusner.github.io/_site/assets/img/thesis/20251015_122303-1400.webp
+       Imagemagick: Generated 0 file(s)
+         AutoPages: Disabled/Not configured in site.config.
+        Pagination: Complete, processed 1 pagination page(s)
+[NbConvertApp] Converting notebook /tmp/jekyll-jupyter-notebook20260921-3952-5lvjjb.ipynb to html
+/opt/hostedtoolcache/Python/3.13.15/x64/lib/python3.13/site-packages/nbconvert/filters/highlight.py:71: UserWarning: IPython3 lexer unavailable, falling back on Python 3
+  return _pygments_highlight(
