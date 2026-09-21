@@ -7,6 +7,7 @@ subtitle: Associate Professor in Robotics at <a href="https://www.ecole-navale.f
 profile:
   align: right
   image: prof_pic.jpg
+  image: quentin_brateau.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

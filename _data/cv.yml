@@ -6,6 +6,7 @@ cv:
   location: Brest, France
   website: https://teusner.github.io/
   image: "/assets/img/prof_pic.jpg"
+  image: "/assets/img/quentin_brateau.jpg"
   summary: Associate Professor in robotics at École Navale and PhD in mobile and underwater robotics from LAB-STICC / ENSTA Bretagne, specializing in cyclic navigation, swarm robotics, set methods, and robust control for autonomous marine vehicles.
 
   social_networks:
