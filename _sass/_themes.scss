@@ -1,6 +1,7 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
+
 @use "variables" as v;
 @use "sass:color";
 
@@ -157,5 +158,24 @@ html[data-theme-setting="light"] {
     padding-left: 10px;
     padding-top: 12px;
     display: block;
+  }
+}
+
+// Navbar visibility fix: ensure navbar links are always visible on desktop viewports
+@media (min-width: 576px) {
+  .navbar-expand-sm .navbar-collapse {
+    display: flex !important;
+    visibility: visible !important;
+  }
+}
+
+// Custom button styling for primary action buttons (e.g. thesis PDF download)
+.btn-primary {
+  background-color: var(--global-theme-color) !important;
+  color: var(--global-bg-color) !important;
+  border: 1px solid var(--global-theme-color) !important;
+  &:hover {
+    background-color: var(--global-hover-color) !important;
+    border-color: var(--global-hover-color) !important;
   }
 }
