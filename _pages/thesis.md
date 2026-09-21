@@ -53,6 +53,7 @@ The thesis defence will take place on **Wednesday, 15 October 2025 at 9:30 a.m.*
 
 Here are some photos taken during the thesis defense. Many thanks to Damien Esnault for the pictures!
 
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_094533.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="../../assets/img/thesis/20251015_095914.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
