@@ -4,8 +4,9 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 7
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_format: rendercv
+cv_pdf: /assets/rendercv/rendercv_output/Quentin_Brateau_CV.pdf
+description: Curriculum vitae detailing my background in robotics, control, and state estimation. Available in interactive HTML below or as a downloadable PDF.
 toc:
   sidebar: left
 ---

@@ -6,6 +6,7 @@ description: a command to transcode videos for Davinci Resolve
 tags: graphics-design logo
 categories: graphics-design
 thumbnail: assets/img/davinci_resolve.png
+giscus_comments: true
 ---
 
 # Introduction

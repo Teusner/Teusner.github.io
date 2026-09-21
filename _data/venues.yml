@@ -16,3 +16,7 @@
 "POMA":
   url: https://pubs.aip.org/asa/poma
   color: "#1f77b4"
+
+"IJAR":
+  url: https://www.sciencedirect.com/journal/international-journal-of-approximate-reasoning
+  color: "#2ca02c"

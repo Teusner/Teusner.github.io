@@ -16,9 +16,14 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "Teusner",
+        "url": "https://github.com/Teusner"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "quentinbrateau",
+        "url": "https://linkedin.com/in/quentinbrateau"
       }
     ]
   },
