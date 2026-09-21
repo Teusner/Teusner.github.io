@@ -95,9 +95,22 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          pip3 install --upgrade nbconvert
+          pip3 install --upgrade --break-system-packages nbconvert || pip3 install --upgrade nbconvert || true
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+          bundle exec jekyll build --trace 2>&1 | tee build.log
+      - name: Report Build Error 📋
+        if: failure()
+        run: |
+          echo "## Build Failure Log" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          tail -n 100 build.log >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+      - name: Upload build log ⬆️
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-build-log
+          path: build.log
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
